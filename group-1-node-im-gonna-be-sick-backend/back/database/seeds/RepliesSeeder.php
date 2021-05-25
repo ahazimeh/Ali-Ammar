@@ -17,6 +17,7 @@ class RepliesSeeder extends Seeder
                 'user_id'     => '1',
                 'comment_id'     => '1',
                 'reply'    => 'Reply 1',
+                'date'  => '2020/1/1',
             ],
         ]);
     }

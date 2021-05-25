@@ -17,6 +17,8 @@ class PackagesSeeder extends Seeder
                 'image'     => 'image1',
                 'name'     => 'name',
                 'price'     => '50000',
+                'description' => 'test',
+                'quantity' => 30,
             ],
         ]);
     }

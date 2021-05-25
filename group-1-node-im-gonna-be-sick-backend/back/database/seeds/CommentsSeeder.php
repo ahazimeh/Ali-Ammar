@@ -16,6 +16,7 @@ class CommentsSeeder extends Seeder
             [
                 'user_id'     => '1',
                 'comment'    => 'Comment 1',
+                'date'  =>'2020/1/1',
             ],
             ]);
     }
